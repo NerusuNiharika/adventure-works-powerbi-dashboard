@@ -4,6 +4,8 @@
 
 This project is an end-to-end Power BI dashboard built using the Adventure Works dataset to analyze business performance, customer behavior, product trends, and regional sales.
 
+---
+
 ## 📂 Dashboard Sections
 
 * Executive Dashboard
